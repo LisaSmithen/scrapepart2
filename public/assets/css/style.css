@@ -8,6 +8,7 @@ body {
   }
   main {
     flex: 1 0 auto;
+    background-color: lightslategray;
   }
   .articleBody {
     height: 200px;
@@ -35,5 +36,15 @@ body {
     color: #635f60;
   }
   .topnav {
-    background-color: #635f60;
+    background-color: palevioletred;
+  }
+
+  .card {
+      background-color: purple;
+  }
+
+  
+
+  #btnSignUp {
+    background-color: purple;  
   }
